@@ -1,0 +1,1 @@
+weather_api_key = "1e185f3c6644d69134643e6433d5ae19"
